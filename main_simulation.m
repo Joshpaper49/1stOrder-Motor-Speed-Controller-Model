@@ -1,22 +1,15 @@
 %% 
 % **this program plots a 1st ODE system
-% 
 % where the system approaches a steady-state
-% 
 % value in accordance to parameters**
-% 
 % 
 % 
 % This is the order of inputs:
 % 
 % *u* is desired speed
-% 
 % *x* is current speed
-% 
 % *tau* is time constant
-% 
 % *dt* is delta time
-% 
 % *time_end* is the upper bound of time range
 
 %motion entries calls
